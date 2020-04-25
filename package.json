@@ -2,6 +2,7 @@
   "name": "covid-dashboard",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://amrgamal91.github.io/covid-19-dashboard/",
   "dependencies": {
     "@material-ui/core": "^4.9.11",
     "@testing-library/jest-dom": "^4.2.4",
@@ -14,8 +15,7 @@
     "react-chartjs-2": "^2.9.0",
     "react-countup": "^4.3.3",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
-    "homepage": "https://amrgamal91.github.io/covid-19-dashboard/"
+    "react-scripts": "3.4.1"
   },
   "scripts": {
     "start": "react-scripts start",
